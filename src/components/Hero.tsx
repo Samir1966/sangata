@@ -22,7 +22,7 @@ const Hero = () => {
               नमस्कार! मैं संगात - आपका स्वास्थ्य साथी
             </h1>
             <p className="text-gray-600 text-xl mb-8 max-w-lg mx-auto md:mx-0">
-              Your caring health companion providing friendly and accessible health guidance for rural women.
+              Your caring health companion providing friendly and accessible health solution for rural women.
             </p>
             <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4 justify-center md:justify-start">
               <Link to="/chat" className="sangata-button-primary">
