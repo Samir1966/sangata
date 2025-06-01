@@ -1,4 +1,3 @@
-
 // Utility for Gemini AI API integration
 import { toast } from "@/components/ui/use-toast";
 
